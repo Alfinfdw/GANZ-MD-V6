@@ -39,19 +39,19 @@ global.sgc = 'https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285172446692'
-global.nomorown = '6285172446692' //Dave
-global.adminn = '6285172446692' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
-global.admin = '6285172446692' //Alvin /INI LAGI
-global.admin2 = '6285172446692' //Ahmad //INI JUGA
-global.namebot = 'LEVI 来'
-global.nameown = 'LEVI 来'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994' //AL
+global.adminn = '6285608468994' //livy //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
+global.admin = '6285608468994' //Al /INI LAGI
+global.admin2 = '6285608468994' //Livy //INI JUGA
+global.namebot = 'Livy 来'
+global.nameown = 'Livy 来'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285172446692'],
-  ['6285172446692', 'LEVI 来', true]
+  ['6285608468994'],
+  ['6285608468994', 'Livy 来', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?

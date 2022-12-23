@@ -6,12 +6,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //------------ BIO OWNER 1
 let ppown1 = await conn.profilePictureUrl(adminn + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let admid = '628881663146'
+let admid = '6285608468994'
 let teksbio1 = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━━
-*💌 Nama* : Smileyヅ
+*💌 Nama* : Livy Renataヅ
 *🔥 Status : Developer BOT*
-*♂️ Gender* : Laki - laki
-*⛪ Agama* : Kristen Advent
+*♂️ Gender* : Perempuan 
+*⛪ Agama* : -
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [70.7%]
@@ -23,7 +23,7 @@ let teksbio1 = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━�
 
 ───────[ SOSIAL MEDIA ]───────
 
-🥏 *WA* wa.me/628881663146
+🥏 *WA* wa.me/6285608468994
 `
       conn.sendHydrated(m.chat, teksbio1, wm, ppown1, "https://wa.me/" + admid, "Chat Smileyヅ", null,null, [["Owner Kyami", '.owner3'], ['Menu', '.menu'],[null,null]], m)
 }

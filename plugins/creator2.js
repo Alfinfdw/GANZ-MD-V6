@@ -6,18 +6,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //------------ BIO OWNER 2
 let alvin = await conn.profilePictureUrl(admin + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let admia = '6287734910547' 
+let admia = '6285608468994' 
 let teksalvin = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━━
-*💌 Samaran* : KyamiCyx
+*💌 Samaran* : LivyXd
 *🪐 Status* : Admin¹
-*♂️ Gender* : Laki - laki
-*🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 15 Maret 2004
-*🎨 Umur* : 18
+*♂️ Gender* : Perempuan 
+*🕋 Agama* : -
+*⏰ Tanggal lahir* : kepoo
+*🎨 Umur* : -
 *🧮 Kelas* : Udh Tamat
-*🧩 Hobby* : Recode Bot, Turu Brutal, Mikir gajelas
+*🧩 Hobby* : Turu Brutal, Mikir gajelas
 *💬 Sifat* : Baik, menyukai kebebasan, 2 wajah, tydack ramah 
-*🗺️ Tinggal* : Indonesia, Jateng, Demak
+*🗺️ Tinggal* : Indonesia, 
 *❤️ Suka* : warnah pink, abu², waifu wangy:v, kucing peduli
 *💔 Benci* : anak alay, autis, anak epep, sok asik, bucin alay, tolol!
 
@@ -33,8 +33,8 @@ let teksalvin = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━�
 
 📷 *Ig:* _alv.stn
 🧸 *Fb:* Private ygy
-🥏 *WA* wa.me/6287734910547
-🐈 *Github:* https://github.com/ShionMDv
+🥏 *WA* wa.me/6285608468994
+🐈 *Github:* https://github.com/kepo
 🎶 *Tiktod:* tiktok.com/@wvinz
 `
 conn.sendHydrated(m.chat, teksalvin, wm, alvin, "https://wa.me/" + admia, "Chat Kyami", null,null, [["Owner Dzox", '.owner4'], ['Menu', '.menu'],[null,null]], m)

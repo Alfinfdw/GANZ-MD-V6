@@ -6,15 +6,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //------------ BIO OWNER 3
 let ahmad = await conn.profilePictureUrl(admin2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let admiad= '6288990007937'
+let admiad= '6285608468994'
 let teksahmad = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━━
-*💌 Nama* : Dzox
+*💌 Nama* : Kepo
 *💥 Status* : Admin²
-*♂️ Gender* : Laki - laki
+*♂️ Gender* : ...
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 12 Mei 2006
-*🎨 Umur* : 16
-*🧮 Kelas* : 11
+*⏰ Tanggal lahir* : y
+*🎨 Umur* : ..
+*🧮 Kelas* : ..
 *🧩 Hobby* : Main game, Recode script, Nonton Anime
 *💬 Sifat* : menyukai kebebasan, 2 wajah, tydack ramah, nolep
 *🗺️ Tinggal* : Indonesia, Jawa Timur, Banyuwangi
@@ -31,7 +31,7 @@ let teksahmad = `━━━━━━━━▢ *BIODATA* ▢━━━━━━━�
 
 ───────[ SOSIAL MEDIA ]───────
 
-🥏 *WA* wa.me/6288990007036
+🥏 *WA* wa.me/6285608468994
 🐈 *Github:* Private ygy:v
 `
 conn.sendHydrated(m.chat, teksahmad, wm, ahmad, "https://wa.me/" + admiad, "Chat Dzox", null,null, [["Oke", 'Oke'], ['Menu', '.menu'],[null,null]], m)
